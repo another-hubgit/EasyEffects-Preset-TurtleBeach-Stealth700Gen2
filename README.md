@@ -41,4 +41,5 @@ Restart EasyEffects if necessary to refresh presets.
 Contributions, improvements, and presets for other headphone models are welcome. Please open an issue or pull request.
 
 ## License
-MIT License. See LICENSE file.
+This project is licensed under the [MIT License](LICENSE).
+
