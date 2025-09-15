@@ -1,12 +1,12 @@
-# Turtle Beach Stealth 700 Gen2 Max - Audiophile EasyEffects Preset
+# Turtle Beach Stealth 700 Gen2 & Max - Audiophile EasyEffects Preset
 
 ## Project Summary
 This project provides a **highly detailed, professional-grade EasyEffects preset** tailored specifically for the Turtle Beach Stealth 700 Gen2 Max wireless gaming headphones.  
 The preset is designed to **significantly improve the sound quality** by addressing the key limitations and tonal imbalances identified in detailed professional reviews from [RTINGS](https://www.rtings.com/headphones/reviews/turtle-beach/stealth-700-gen-2-wireless) and [SoundGuys](https://www.soundguys.com/turtle-beach-stealth-700-gen-2-max-review-73902/).
 
 ## Supported Hardware
-- Designed exclusively for the **Turtle Beach Stealth 700 Gen2 Max** wireless headphones.
-- May work well on headphones or headsets with similar V-shaped frequency response profiles but **optimal results are specific to the Stealth 700 Gen2 Max**.
+- Designed exclusively for the **Turtle Beach Stealth 700 Gen2 & Gen2 Max** wireless headphones.
+- May work well on headphones or headsets with similar V-shaped frequency response profiles but **optimal results are specific to the Turtle Beach Stealth 700 Gen2 & Gen2 Max**.
 - Compatible with Linux systems running **EasyEffects version 6.0+** with PipeWire audio backend.
 
 ## Features
